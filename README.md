@@ -1,0 +1,1 @@
+In 2002, my father sent me an email asking me to make sense of this code he got.  I placed it into an HTML file and what you see at https://dburgnerjr.github.io/Clock is the end result.  I did not write this, I merely placed it onto a web page and brought it to life.
